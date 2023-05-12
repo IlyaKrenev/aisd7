@@ -1,0 +1,15 @@
+C:\Users\krene\source\repos\aisd7a\aisd7a\bin\Debug\net6.0\aisd7a.exe
+C:\Users\krene\source\repos\aisd7a\aisd7a\bin\Debug\net6.0\aisd7a.deps.json
+C:\Users\krene\source\repos\aisd7a\aisd7a\bin\Debug\net6.0\aisd7a.runtimeconfig.json
+C:\Users\krene\source\repos\aisd7a\aisd7a\bin\Debug\net6.0\aisd7a.dll
+C:\Users\krene\source\repos\aisd7a\aisd7a\bin\Debug\net6.0\aisd7a.pdb
+C:\Users\krene\source\repos\aisd7a\aisd7a\obj\Debug\net6.0\aisd7a.csproj.AssemblyReference.cache
+C:\Users\krene\source\repos\aisd7a\aisd7a\obj\Debug\net6.0\aisd7a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krene\source\repos\aisd7a\aisd7a\obj\Debug\net6.0\aisd7a.AssemblyInfoInputs.cache
+C:\Users\krene\source\repos\aisd7a\aisd7a\obj\Debug\net6.0\aisd7a.AssemblyInfo.cs
+C:\Users\krene\source\repos\aisd7a\aisd7a\obj\Debug\net6.0\aisd7a.csproj.CoreCompileInputs.cache
+C:\Users\krene\source\repos\aisd7a\aisd7a\obj\Debug\net6.0\aisd7a.dll
+C:\Users\krene\source\repos\aisd7a\aisd7a\obj\Debug\net6.0\refint\aisd7a.dll
+C:\Users\krene\source\repos\aisd7a\aisd7a\obj\Debug\net6.0\aisd7a.pdb
+C:\Users\krene\source\repos\aisd7a\aisd7a\obj\Debug\net6.0\aisd7a.genruntimeconfig.cache
+C:\Users\krene\source\repos\aisd7a\aisd7a\obj\Debug\net6.0\ref\aisd7a.dll
